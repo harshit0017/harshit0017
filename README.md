@@ -20,7 +20,7 @@ Exploring the depths of Deep Learning with TensorFlow and Keras.
 
 ## 💬 Let's Connect
 
-Connect with me on [LinkedIn](https://www.linkedin.com/in/harshit0017/) or [Twitter](https://twitter.com/hs104208).
+Connect with me on [LinkedIn](https://www.linkedin.com/in/harshit-singh-311897165/) or [Twitter](https://twitter.com/hs104208).
 
 ## 📊 GitHub Stats
 
