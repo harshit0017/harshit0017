@@ -7,7 +7,7 @@ Welcome to my GitHub profile! I'm passionate about Machine Learning, AI, and Dee
 
 ## 🚀 Featured Projects
 
-### [ML Predictor App](https://github.com/harshit0017/ml-predictor-app)
+### [GitHub complex repo predictor](https://gitextraction.streamlit.app/)
 A Streamlit app that predicts something cool using Machine Learning models.
 
 ### [Deep Learning Adventures](https://github.com/harshit0017/deep-learning-adventures)
