@@ -18,7 +18,7 @@ class HarshitSingh:
     def __init__(self):
         self.role = "ML Engineer & AI Researcher"
         self.location = "India 🇮🇳"
-        self.interests = ["Deep Learning", "NLP", "Computer Vision", "MLOps"]
+        self.interests = ["Deep Learning", "AGENTS", "AI", "MLOps"]
         self.currently_learning = ["Reinforcement Learning", "LLMs", "Advanced Deep Learning"]
         self.fun_fact = "I debug neural networks faster than I fix my sleep schedule ☕"
     
@@ -46,7 +46,7 @@ me.say_hi()
 
 <div align="center">
   
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit0017&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=harshit0017&theme=react-dark&hide_border=true&area=true)
 
 </div>
 
@@ -101,14 +101,6 @@ me.say_hi()
 
 ---
 
-## 📈 Contribution Graph
-
-<div align="center">
-
-![Snake animation](https://raw.githubusercontent.com/harshit0017/harshit0017/output/github-contribution-grid-snake-dark.svg)
-
-</div>
-
 ---
 
 ## 💡 Random Dev Quote
@@ -153,9 +145,3 @@ I'm always open to interesting conversations and collaboration opportunities. Wh
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
 </div>
-
-<!--
-
-
-
--->
